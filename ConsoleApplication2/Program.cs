@@ -14,7 +14,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("denemedir");
-
+            mhjmhj;
             try
             {
                 ssh = new SshClient("10.143.3.110", "root", "ismail");
